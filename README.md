@@ -1,4 +1,5 @@
-## Mingeun Kim - @getsolaris
+## Hi there, I'am Mingeun Kim aka getsolaris 👋
+
 
 ### Military 😢
 
