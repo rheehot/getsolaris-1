@@ -36,19 +36,6 @@
 
 ---
 
-<a href="https://github.com/getsolaris">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=getsolaris&show_icons=true&count_private=true&hide=stars,contribs" alt="Mingeun Kim's github stats" />
-</a>
-
-<a href="https://github.com/getsolaris">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=getsolaris&layout=compact&hide=css,html" />
-</a>
-
-<br />
-<br />
-
----
-
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-FB5BC5?style=flat-square&logo=github&link=https://mingeun.com/)](https://mingeun.com/)
