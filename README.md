@@ -11,7 +11,7 @@
 - :hospital: &nbsp; Seoul National University Hospital (08. 2019 - 04. 2020)
 - :office: &nbsp; The Commerce (10. 2018 - 04. 2019)
 
-### Team Experiences
+### Team Experience
 
 - :musical_note: &nbsp; Team Crescendo (2018.12 - now)
 
@@ -21,7 +21,7 @@
 - 👨‍⚕️ &nbsp; 2019 Korea Clinical Datathon Mento (Seoul National University Hospital)
 
 
-### Interest Languages
+### Interest
 
 [<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][github]
 [<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][github]
