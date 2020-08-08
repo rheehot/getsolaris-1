@@ -7,9 +7,9 @@
 
 ### Work Experiences
 
-- :office: &nbsp; Taggers, Inc. (05. 2020 - 07. 2020)
-- :hospital: &nbsp; Seoul National University Hospital (08. 2019 - 04. 2020)
-- :office: &nbsp; The Commerce (10. 2018 - 04. 2019)
+- :office: &nbsp; Taggers, Inc.
+- :hospital: &nbsp; Seoul National University Hospital
+- :office: &nbsp; The Commerce
 
 ### Team Experience
 
