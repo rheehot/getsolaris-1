@@ -10,7 +10,7 @@
 - :office: &nbsp; Taggers, Inc. (05. 2020 - 07. 2020)
   - Advertiser API (05. 2020 - 07. 2020)
 - :hospital: &nbsp; Seoul National University Hospital (08. 2019 - 04. 2020)
-  - VitalDB (08.2019 - 04.2020)
+  - VitalDB (08. 2019 - 04. 2020)
   - SNUH Enhanced Recovery After Surgery (12. 2019 - 03. 2020)
   - SNUH Preoperative Evaluation Questionnaire (12. 2019 - 03. 2020)
   - SNUH Preclinical Experiment DB (04. 2020 - 04. 2020)
