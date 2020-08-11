@@ -24,9 +24,10 @@
 - :musical_note: &nbsp; Team Crescendo (2018.12 - now)
 
 
-### Activity
+### Activities
 
 - 👨‍⚕️ &nbsp; 2019 Korea Clinical Datathon Mento (Seoul National University Hospital)
+- :information_desk_person: &nbsp; 2019 OSS Kookmin Univ Software Summer Camp Teaching assistant
 
 
 ### Skills
