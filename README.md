@@ -3,7 +3,7 @@
 
 ### Military 😢
 
-- :ship: &nbsp; Republic of Korea Navy (08. 2020 ~ 04. 2022)
+- :ship: &nbsp; Republic of Korea Navy (08. 2020 - 04. 2022)
   - Computer Technician (전산병)
 
 ### Work Experiences
@@ -22,7 +22,7 @@
 
 ### Team Experience
 
-- :musical_note: &nbsp; Team Crescendo (2018.12 - now)
+- :musical_note: &nbsp; Team Crescendo (12. 2018 - current)
 
 
 ### Activities
