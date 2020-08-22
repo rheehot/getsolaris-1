@@ -4,7 +4,7 @@
 ### Military 😢
 
 - :ship: &nbsp; Republic of Korea Navy (08. 2020 - 04. 2022)
-  - Computer Technician (전산병)
+  - Computer Technician
 
 ### Work Experiences
 
